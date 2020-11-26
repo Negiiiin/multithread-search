@@ -1,1 +1,2 @@
-# multithread-search
+# Multithread searching
+Multithread searching in GoodReader's books and reviews database
